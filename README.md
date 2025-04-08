@@ -1,2 +1,2 @@
 # GitHub-Pages
-Yilin Zhang's User Page
+Yilin's User Page
