@@ -4,7 +4,7 @@
 2. I like playing volleyball
 - [x] Task 1
 [See page](#user--page)
-<pre> ```python def greet(name): return f"Hello, {name}!" ``` </pre>
+<pre> ```def greet(name): return f"Hello, {name}!" ``` </pre>
 > This is a quote
 [.md file](README.md)
 [External](http://github.com)
